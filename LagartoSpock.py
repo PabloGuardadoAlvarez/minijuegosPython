@@ -25,7 +25,7 @@ elif (player2R == 4):
 else:
     player2 = "spock"
 
-print("PIEDRA,PAPEL O TIJERA !!!")
+print("PIEDRA,PAPEL,TIJERA, LAGARTO, SPOCK !!!")
 
 print("el jugador 1 a sacado " + player1)
 print("el jugador 2 a sacado " + player2)
